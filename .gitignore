@@ -1,0 +1,10 @@
+cmake-build-debug
+cmake-build-release
+Dist
+Resource/Player
+Raptor-Legend-Never-Die
+Target
+TODO
+*.log
+*.idea
+API.md
